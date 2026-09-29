@@ -50,7 +50,3 @@ The scraping process follows these steps:
 6. Organize the extracted data into a structured dataset.
 7. Export the final dataset to a **CSV file**.
 
----
-├── data_engineer_jobs.csv
-├── README.md
-└── requirements.txt
